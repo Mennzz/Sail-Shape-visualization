@@ -1,0 +1,101 @@
+time,type,value
+0:00,Max Camber,0
+0:01,Max Camber,3
+0:02,Max Camber,6
+0:04,Max Camber,9
+0:05,Max Camber,12
+0:07,Max Camber,15
+0:08,Max Camber,18
+0:10,Max Camber,21
+0:11,Max Camber,24
+0:12,Max Camber,24
+0:14,Max Camber,24
+0:15,Max Camber,24
+0:17,Max Camber,24
+0:18,Max Camber,22
+0:20,Max Camber,20
+0:21,Max Camber,18
+0:23,Max Camber,16
+0:24,Max Camber,14
+0:25,Max Camber,15
+0:27,Max Camber,13
+0:28,Max Camber,11
+0:30,Max Camber,9
+0:00,Draft Position,0
+0:01,Draft Position,5
+0:02,Draft Position,10
+0:04,Draft Position,15
+0:05,Draft Position,20
+0:07,Draft Position,25
+0:08,Draft Position,30
+0:10,Draft Position,35
+0:11,Draft Position,40
+0:12,Draft Position,45
+0:14,Draft Position,50
+0:15,Draft Position,55
+0:17,Draft Position,60
+0:18,Draft Position,52
+0:20,Draft Position,44
+0:21,Draft Position,36
+0:23,Draft Position,28
+0:24,Draft Position,26
+0:25,Draft Position,24
+0:27,Draft Position,22
+0:28,Draft Position,20
+0:30,Draft Position,18
+0:00,Exit Angle,0
+0:01,Exit Angle,3
+0:02,Exit Angle,6
+0:04,Exit Angle,9
+0:05,Exit Angle,12
+0:07,Exit Angle,15
+0:08,Exit Angle,18
+0:10,Exit Angle,16
+0:11,Exit Angle,14
+0:12,Exit Angle,12
+0:14,Exit Angle,10
+0:15,Exit Angle,8
+0:17,Exit Angle,12
+0:18,Exit Angle,16
+0:20,Exit Angle,20
+0:21,Exit Angle,24
+0:23,Exit Angle,19
+0:24,Exit Angle,23
+0:25,Exit Angle,18
+0:27,Exit Angle,22
+0:28,Exit Angle,17
+0:30,Exit Angle,21
+0:00,Entry Angle,0
+0:01,Entry Angle,2
+0:02,Entry Angle,4
+0:04,Entry Angle,6
+0:05,Entry Angle,8
+0:07,Entry Angle,10
+0:08,Entry Angle,12
+0:10,Entry Angle,14
+0:11,Entry Angle,16
+0:12,Entry Angle,19
+0:14,Entry Angle,22
+0:15,Entry Angle,25
+0:17,Entry Angle,28
+0:18,Entry Angle,31
+0:20,Entry Angle,34
+0:21,Entry Angle,37
+0:23,Entry Angle,40
+0:24,Entry Angle,36
+0:25,Entry Angle,32
+0:27,Entry Angle,28
+0:28,Entry Angle,24
+0:30,Entry Angle,20
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
+,,
